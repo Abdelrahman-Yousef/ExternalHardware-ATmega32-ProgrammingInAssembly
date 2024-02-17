@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\Debug\LCD_Custom_Character.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LCD_Custom_Character.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LCD_Custom_Character.map</FILE>
+  <FILE>LCD_Custom_Character.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>18</LINE></MAIN>
+  <DELAY_40ms><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>102</LINE></DELAY_40ms>
+  <SEND_COMMAND><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>117</LINE></SEND_COMMAND>
+  <DELAY_100us><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>92</LINE></DELAY_100us>
+  <CHAR><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>135</LINE></CHAR>
+  <DRAW><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>66</LINE></DRAW>
+  <SEND_DATA><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>126</LINE></SEND_DATA>
+  <HERE><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>74</LINE></HERE>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>84</LINE></LOOP>
+  <DELAY><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>87</LINE></DELAY>
+  <L1><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>95</LINE></L1>
+  <L2><FILE>c:\users\options\Documents\Atmel Studio\7.0\LCD_Custom_Character\LCD_Custom_Character\main.asm</FILE><LINE>107</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

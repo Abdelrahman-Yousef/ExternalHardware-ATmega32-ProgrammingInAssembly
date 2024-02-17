@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\Debug\Unipolar_Stepper_Motor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Unipolar_Stepper_Motor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Unipolar_Stepper_Motor.map</FILE>
+  <FILE>Unipolar_Stepper_Motor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>16</LINE></MAIN>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>31</LINE></LOOP>
+  <DELAY><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>46</LINE></DELAY>
+  <ROTATE><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>57</LINE></ROTATE>
+  <HERE><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>38</LINE></HERE>
+  <L1><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>48</LINE></L1>
+  <L2><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>50</LINE></L2>
+  <RETURN><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>64</LINE></RETURN>
+  <WAVE_STEP><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>67</LINE></WAVE_STEP>
+  <FULL_STEP><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>70</LINE></FULL_STEP>
+  <HALF_STEP><FILE>c:\users\options\Documents\Atmel Studio\7.0\Unipolar_Stepper_Motor\Unipolar_Stepper_Motor\main.asm</FILE><LINE>73</LINE></HALF_STEP>
+ </LABELS>
+</ASSEMBLER_INFO>

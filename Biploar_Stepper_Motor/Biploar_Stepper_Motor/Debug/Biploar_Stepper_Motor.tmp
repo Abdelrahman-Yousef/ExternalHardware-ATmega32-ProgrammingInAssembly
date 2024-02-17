@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\Debug\Biploar_Stepper_Motor.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Biploar_Stepper_Motor.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Biploar_Stepper_Motor.map</FILE>
+  <FILE>Biploar_Stepper_Motor.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>13</LINE></MAIN>
+  <WAVE_STEP><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>74</LINE></WAVE_STEP>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>30</LINE></LOOP>
+  <L><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>35</LINE></L>
+  <ROTATE_COUNTER_CLOCKWISE><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>62</LINE></ROTATE_COUNTER_CLOCKWISE>
+  <D><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>36</LINE></D>
+  <ROTATE_CLOCKWISE><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>52</LINE></ROTATE_CLOCKWISE>
+  <DELAY><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>41</LINE></DELAY>
+  <L1><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>43</LINE></L1>
+  <L2><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>45</LINE></L2>
+  <HERE><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>57</LINE></HERE>
+  <SKIP><FILE>c:\users\options\Documents\Atmel Studio\7.0\Biploar_Stepper_Motor\Biploar_Stepper_Motor\main.asm</FILE><LINE>67</LINE></SKIP>
+ </LABELS>
+</ASSEMBLER_INFO>

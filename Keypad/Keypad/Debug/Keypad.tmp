@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\Debug\Keypad.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Keypad.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Keypad.map</FILE>
+  <FILE>Keypad.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>13</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>24</LINE></LOOP>
+  <SCAN><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>30</LINE></SCAN>
+  <OUTER><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>35</LINE></OUTER>
+  <INNER><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>42</LINE></INNER>
+  <GET_KEY_VALUE><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>63</LINE></GET_KEY_VALUE>
+  <GO_TO_NEXT_ROW><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>53</LINE></GO_TO_NEXT_ROW>
+  <RETURN_FROM_SCAN><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>74</LINE></RETURN_FROM_SCAN>
+  <TABLE><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\Keypad\Keypad\main.asm</FILE><LINE>77</LINE></TABLE>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,36 @@
+;
+; EMR.asm
+;
+; Created: 10/7/2023 2:13:47 PM
+; Author : Options
+;
+
+
+; Replace with your application code
+.INCLUDE "m32def.inc"
+
+.ORG 0x00
+MAIN:
+LDI R16,HIGH(RAMEND)
+OUT SPH,R16
+LDI R16,LOW(RAMEND)
+OUT SPL,R16
+
+SBI DDRD,PD0
+LOOP:
+SBI PORTD,PD0
+CALL DELAY
+CBI PORTD,PD0
+CALL DELAY
+RJMP LOOP
+
+DELAY:
+LDI R16,0xFF
+L1:
+LDI R17,0xFF
+L2:
+DEC R17
+BRNE L2
+DEC R16
+BRNE L1
+RET 

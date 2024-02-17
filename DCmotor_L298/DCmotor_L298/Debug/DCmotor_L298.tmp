@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\DCmotor_L298\DCmotor_L298\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\DCmotor_L298\DCmotor_L298\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\DCmotor_L298\DCmotor_L298\Debug\DCmotor_L298.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DCmotor_L298.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DCmotor_L298.map</FILE>
+  <FILE>DCmotor_L298.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\DCmotor_L298\DCmotor_L298\main.asm</FILE><LINE>11</LINE></MAIN>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\DCmotor_L298\DCmotor_L298\main.asm</FILE><LINE>18</LINE></LOOP>
+  <ROTATE_ANTI_CLOCKWISE><FILE>c:\users\options\Documents\Atmel Studio\7.0\DCmotor_L298\DCmotor_L298\main.asm</FILE><LINE>24</LINE></ROTATE_ANTI_CLOCKWISE>
+ </LABELS>
+</ASSEMBLER_INFO>

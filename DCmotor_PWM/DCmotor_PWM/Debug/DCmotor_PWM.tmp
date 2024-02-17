@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\Debug\DCmotor_PWM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DCmotor_PWM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DCmotor_PWM.map</FILE>
+  <FILE>DCmotor_PWM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</FILE><LINE>11</LINE></MAIN>
+  <LOOP><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</FILE><LINE>38</LINE></LOOP>
+  <DELAY><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</FILE><LINE>61</LINE></DELAY>
+  <CHANGE_DUTY_CYCLE><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</FILE><LINE>51</LINE></CHANGE_DUTY_CYCLE>
+  <HERE><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</FILE><LINE>54</LINE></HERE>
+  <L1><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</FILE><LINE>63</LINE></L1>
+  <L2><FILE>C:\Users\Options\Documents\Atmel Studio\7.0\DCmotor_PWM\DCmotor_PWM\main.asm</FILE><LINE>65</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

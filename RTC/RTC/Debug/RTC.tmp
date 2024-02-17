@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\Debug\RTC.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>RTC.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>RTC.map</FILE>
+  <FILE>RTC.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>14</LINE></MAIN>
+  <I2C_INIT><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>119</LINE></I2C_INIT>
+  <I2C_START><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>126</LINE></I2C_START>
+  <I2C_WRITE><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>135</LINE></I2C_WRITE>
+  <I2C_STOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>163</LINE></I2C_STOP>
+  <I2C_READ_WITH_ACK><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>145</LINE></I2C_READ_WITH_ACK>
+  <I2C_READ_WITH_NOT_ACK><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>154</LINE></I2C_READ_WITH_NOT_ACK>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>116</LINE></LOOP>
+  <L1><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>129</LINE></L1>
+  <L2><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>139</LINE></L2>
+  <L3><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>148</LINE></L3>
+  <L4><FILE>c:\users\options\Documents\Atmel Studio\7.0\RTC\RTC\main.asm</FILE><LINE>157</LINE></L4>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>c:\users\options\Documents\Atmel Studio\7.0\LM34_LM35\LM34_LM35\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\options\Documents\Atmel Studio\7.0\LM34_LM35\LM34_LM35\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\options\Documents\Atmel Studio\7.0\LM34_LM35\LM34_LM35\Debug\LM34_LM35.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LM34_LM35.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LM34_LM35.map</FILE>
+  <FILE>LM34_LM35.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>c:\users\options\Documents\Atmel Studio\7.0\LM34_LM35\LM34_LM35\main.asm</FILE><LINE>14</LINE></MAIN>
+  <LOOP><FILE>c:\users\options\Documents\Atmel Studio\7.0\LM34_LM35\LM34_LM35\main.asm</FILE><LINE>25</LINE></LOOP>
+  <HERE><FILE>c:\users\options\Documents\Atmel Studio\7.0\LM34_LM35\LM34_LM35\main.asm</FILE><LINE>27</LINE></HERE>
+ </LABELS>
+</ASSEMBLER_INFO>
